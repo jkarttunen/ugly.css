@@ -1,0 +1,9 @@
+body.ugly{
+    font-face: arial !important;
+    -webkit-filter: grayscale(30%) !important;
+    -moz-filter: grayscale(30%) !important;
+    -ms-filter: grayscale(30%) !important;
+    -o-filter: grayscale(30%) !important;
+    filter: grayscale(30%) !important;
+    filter: gray !important;
+}
